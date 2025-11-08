@@ -1,6 +1,5 @@
 import { createContext, useContext, useReducer } from "react";
 import { cartReducer } from "../reducers";
-import { type } from "@testing-library/user-event/dist/type";
 
 const cartInitialState = {
     cartList: [],
