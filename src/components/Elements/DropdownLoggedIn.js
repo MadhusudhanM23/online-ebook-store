@@ -16,7 +16,8 @@ export const DropdownLoggedIn = ({ setDropdown }) => {
         toast.error(error.message);
       }
     }
-  });
+    fetchData();
+  }, []);//eslint-disable-line
 
   function handleLogout() {
     logout();
