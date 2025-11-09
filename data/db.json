@@ -295,6 +295,12 @@
       "password": "$2a$10$jaeiYQb4d71C4xqBLAj7WeGZx1VX32MofvGQMVMYzuKiaWraVgkcC",
       "name": "Guest",
       "id": 3
+    },
+    {
+      "email": "guess@gmail.com",
+      "password": "$2a$10$MT6vlO5zhLS4L7U6dedn0O3NeaWlxHaD1qXZQeP4THrxrrIoQEhG2",
+      "name": "Guest",
+      "id": 4
     }
   ]
 }
