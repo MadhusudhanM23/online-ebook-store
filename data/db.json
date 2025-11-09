@@ -283,6 +283,18 @@
       "password": "$2a$10$.1tWbDID3s2HHSq9/D7OYOa5nCaH.ZbhNgqPDBRIwh16.JK.VUmcW",
       "name": "MadhuSudhan",
       "id": 1
+    },
+    {
+      "email": "guesst@exmaple.com",
+      "password": "$2a$10$uMD1dyIiT4/dRjtFzWzpYu8uiw1x9aVwdQ140nT4N3yIOEFWiMFh.",
+      "name": "Guest",
+      "id": 2
+    },
+    {
+      "email": "guest123@gmail.com",
+      "password": "$2a$10$jaeiYQb4d71C4xqBLAj7WeGZx1VX32MofvGQMVMYzuKiaWraVgkcC",
+      "name": "Guest",
+      "id": 3
     }
   ]
 }
