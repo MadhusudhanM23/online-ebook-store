@@ -285,22 +285,10 @@
       "id": 1
     },
     {
-      "email": "guesst@exmaple.com",
-      "password": "$2a$10$uMD1dyIiT4/dRjtFzWzpYu8uiw1x9aVwdQ140nT4N3yIOEFWiMFh.",
+      "email": "guess@gmail.com",
+      "password": "$2a$10$CYB4oC.YQ.PDK2kgBCgNw.BNH2i.gPfWfyw6yGZQcTu7JHdCkLvle",
       "name": "Guest",
       "id": 2
-    },
-    {
-      "email": "guest123@gmail.com",
-      "password": "$2a$10$jaeiYQb4d71C4xqBLAj7WeGZx1VX32MofvGQMVMYzuKiaWraVgkcC",
-      "name": "Guest",
-      "id": 3
-    },
-    {
-      "email": "guess@gmail.com",
-      "password": "$2a$10$MT6vlO5zhLS4L7U6dedn0O3NeaWlxHaD1qXZQeP4THrxrrIoQEhG2",
-      "name": "Guest",
-      "id": 4
     }
   ]
 }
